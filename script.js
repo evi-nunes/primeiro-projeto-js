@@ -1,3 +1,6 @@
+let cliques = 0;
+const contador = document.getElementById("contador");
+
 const input = document.getElementById("texto");
 const resultado = document.getElementById("resultado");
 
@@ -11,6 +14,7 @@ let azul = false; // controla a cor (estado)
 botaoMostrar.addEventListener("click", function () {
   if (input.value === "") {
     resultado.textContent = "Digite algo 🙂";
+    resultado.style.color = "black";
     return;
   }
 
