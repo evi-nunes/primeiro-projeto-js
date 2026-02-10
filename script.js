@@ -18,6 +18,15 @@ botaoLimpar.addEventListener("click", function () {
   input.value = "";
 });
 
+let azul = false;
+
 botaoCor.addEventListener("click", function () {
-  resultado.style.color = "blue";
+  if (azul) {
+    resultado.style.color = "black";
+  } else {
+    resultado.style.color = "blue";
+  }
+  azul = !azul;
+});
+
 });
