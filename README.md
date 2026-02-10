@@ -23,6 +23,8 @@ Projeto simples desenvolvido para praticar HTML, CSS e JavaScript, com foco em i
 
 ## 🌐 Projeto online
 Acesse o projeto em funcionamento:  
-👉 (cole aqui o link do GitHub Pages)
+👉(https://evi-nunes.github.io/primeiro-projeto-js/)
 
 ## 📷 Preview
+<img width="1906" height="816" alt="image" src="https://github.com/user-attachments/assets/7886dbcd-2404-4a04-9ccc-e8d8f8a90d92" />
+
